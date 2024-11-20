@@ -12,10 +12,7 @@ namespace ConsoleApp1{
         static void Main(string[] args)
         {
             Dictionary<string, Product> products = new Dictionary<string, Product>();
-           /* products.Add("arbuz",new Product("arbuz", 100, 10));
-
-            Console.WriteLine(products["arbuz"].cost); */
-
+            
             Console.WriteLine("Магазин\n----------------");
 
             string ui = string.Empty;

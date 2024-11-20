@@ -1,0 +1,15 @@
+/Users/atlas/Documents/code/C#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/atlas/Documents/code/C#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/atlas/Documents/code/C#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/atlas/Documents/code/C#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/atlas/Documents/code/C#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/atlas/Documents/code/C#/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
